@@ -1,0 +1,4 @@
+EmployeeID,EmployeeName,Department,LeaveType,StartDate,EndDate,Days,Status,Notes
+1001,Anna Cruz,HR,Vacation,2026-06-01,2026-06-05,5,Approved,Family trip
+1002,Mark Reyes,Engineering,Sick,2026-06-03,2026-06-04,2,Pending,Doctor note pending
+1003,Liza Santos,Sales,Vacation,2026-07-10,2026-07-12,3,Approved,Conference
